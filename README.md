@@ -10,7 +10,7 @@ Github: [Github](https://github.com/virginiakm1988/ML2022-Spring)
 | # | Topic | Task | Public Score | Private Score | Score | Ranking |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | Regression | COVID-19 Cases Prediction | 0.83911 | 0.90092 | 9 | 154/944<br>Top 16% |
-| 2 | Classification | MFCC Classification | 0.84441 | 0.84562 | 10 | 13/615<br>(op 2% |
+| 2 | Classification | MFCC Classification | 0.84441 | 0.84562 | 10 | 13/615<br>Top 2% |
 | 3 | Convolutional Neural Network | Food-11 Classification | 0.92131 | 0.89159 | 10 | 43/549<br>Top 8% |
 | 4 | Self-Attention | Speaker Identification | 0.86850 | 0.86575 | 10 | 41/517<br>Top 8% |
 | 5 | Transformer | English to Traditional Chinese Machine Translation | 36.29 | 36.32 | 10 | 3/389<br>Top 1% |
